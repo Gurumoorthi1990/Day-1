@@ -1,0 +1,12 @@
+Difference between HTTP1.1 vs HTTP2
+
+- http1.1 is the protocol that is used when connecting to a server with either HTTP or HTTPS.
+
+- http2 is a new protocol that is used to connect to the server which is more effective and it is used when connecting with HTTPS only.
+
+- HTTP/2 is a modernized version of the HTTP/1.1 protocol, designed to enhance the efficiency of loading web pages and transmitting data. 
+  The key difference lies in the way data is framed and transported between the client and the server. 
+  While HTTP/1.1 processes requests and responses sequentially, HTTP/2 allows for multiplexing, enabling multiple streams of data to be exchanged simultaneously over a single connection. 
+  This significantly reduces latency and enhances the overall performance of web browsing.
+
+- HTTP2 is binary, instead of textual
